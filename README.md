@@ -29,3 +29,24 @@
 ![lolololo](https://github.com/bakonaanlong/AB_Testing_Analysis/blob/main/ad_dashboard.JPG)
 
 [Read more about the project here](https://github.com/bakonaanlong/AB_Testing_Analysis/blob/main/README.md)
+
+---
+
+## 5. Financial Investment Analysis
+
+![lolololool](https://github.com/bakonaanlong/FInancial-Investment-Analysis/blob/main/trw%20dashboard.JPG)
+
+[Read more about the project here](https://github.com/bakonaanlong/FInancial-Investment-Analysis/blob/main/README.md)
+
+---
+
+## 6. Churn Analysis
+
+![lololllo](https://github.com/bakonaanlong/Churn-Analysis/blob/main/churn%20dashboard.JPG)
+
+[Read more about the project here](https://github.com/bakonaanlong/Churn-Analysis/blob/main/README.md)
+
+
+
+
+
