@@ -17,3 +17,9 @@
 
 ---
 
+## 3. Sentiment Analysis
+![lololol](https://github.com/bakonaanlong/Sentiment_Analysis/blob/main/sentiment.PNG)
+
+[Read more about the project here](https://github.com/bakonaanlong/Sentiment_Analysis/blob/main/README.md)
+
+---
