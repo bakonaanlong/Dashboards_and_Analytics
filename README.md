@@ -23,3 +23,9 @@
 [Read more about the project here](https://github.com/bakonaanlong/Sentiment_Analysis/blob/main/README.md)
 
 ---
+
+## 4. AB Test & Analysis
+
+![lolololo](https://github.com/bakonaanlong/AB_Testing_Analysis/blob/main/ad_dashboard.JPG)
+
+[Read more about the project here](https://github.com/bakonaanlong/AB_Testing_Analysis/blob/main/README.md)
